@@ -18,6 +18,11 @@ Supports **dark/light theme toggle**, **error handling**, and a simple **termina
 
 ---
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/e1ae7d68-7298-4d36-9cae-31b5d3912982)
+
+
 ## 📁 Project Structure
 
 ```bash
