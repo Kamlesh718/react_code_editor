@@ -3,6 +3,8 @@
 An **in-browser React + JavaScript code editor** built with **Monaco Editor**, **Babel**, and **iframe live preview**.  
 Supports **dark/light theme toggle**, **error handling**, and a simple **terminal** for `console.log`, `console.warn`, and `console.error` 🚀
 
+**Live Site** - https://react-code-editor-rust.vercel.app/
+
 ---
 
 ## ✨ Features
